@@ -1,0 +1,20 @@
+ Task 2 - Calculator (Console-Based)
+
+ Description:
+A simple Python program that performs basic arithmetic operations using console input/output. The user can enter two numbers and choose an operation (addition, subtraction, multiplication, or division).
+
+ Features:
+- Performs:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- User-friendly console prompts
+- Error handling for invalid input and division by zero
+
+ Technologies Used:
+- Python
+
+ How to Run:
+```bash
+python calculator.py

@@ -1,0 +1,19 @@
+Task 4 - Rock Paper Scissors Game
+
+ Description:
+A classic Rock-Paper-Scissors game built using Python. The player competes against the computer, and the result (win/lose/draw) is displayed after each round.
+
+ Features:
+- Console-based game
+- Random choice generation for the computer
+- User-friendly interface
+- Keeps the game interactive with messages
+- Loops until the user decides to exit
+
+ Technologies Used:
+- Python
+- `random` module
+
+ How to Run:
+```bash
+python rock_paper_scissors.py

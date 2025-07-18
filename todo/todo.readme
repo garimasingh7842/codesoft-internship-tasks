@@ -1,0 +1,18 @@
+Task 1 - To-Do List
+
+ Description:
+A GUI-based To-Do List app using Python and Tkinter to manage daily tasks effectively.
+
+ Features:
+- Add new tasks
+- Delete tasks
+- Mark tasks as completed
+- Simple, clean interface
+
+ Technologies Used:
+- Python
+- Tkinter (GUI)
+
+ How to Run:
+```bash
+python todo.py

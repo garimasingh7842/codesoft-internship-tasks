@@ -1,0 +1,19 @@
+Task 5 - Contact Book (Tkinter GUI)
+
+Description:
+A GUI-based Contact Book application built using Python's Tkinter library. It allows users to add, view, search, update, and delete contacts through an interactive interface.
+
+Features:
+- Add new contacts with Name, Phone, Email, and Address
+- View all saved contacts in a list or table
+- Search contact by name or number
+- Update or delete selected contact
+- User-friendly GUI layout
+
+Technologies Used:
+- Python
+- Tkinter
+
+How to Run:
+```bash
+python contact_book.py
